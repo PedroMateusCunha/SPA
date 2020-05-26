@@ -15,6 +15,8 @@ listaProgramasInstalar=(
   apache2
   vlc
   git
+  net-tools
+  nmap
 )
 
 # Removendo possiveis travas do apt
